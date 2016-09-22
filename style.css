@@ -5,7 +5,7 @@ body{
     height:100%;
     margin:0px;
     display: flex;
-    background-image: url(Icons/background.jpg);
+    background-image: url(wall.jpg);
     background-position: center;
 }
 #container{
