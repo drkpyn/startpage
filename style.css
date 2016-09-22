@@ -5,6 +5,7 @@ body, a{
     background-image: url("wall.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    backgroud-attachment: fixed;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
