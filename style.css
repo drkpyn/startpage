@@ -6,7 +6,7 @@ body{
     margin:0px;
     display: flex;
     background-image: url(wallhaven-335719.jpg);
-    background-width: 100%;
+    background-position: center;
 }
 #container{
     margin: auto;
